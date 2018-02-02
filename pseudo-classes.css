@@ -11,6 +11,7 @@ li  {
 .inline {
     display: block;
     margin: 25px;
+    border: 1px solid #00ff0d;
 }
 
 article.n-child section:nth-of-type(even) {
